@@ -2,7 +2,7 @@
 
 **Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Mobile com Kotlin, apaixonada pelo universo da tecnologia desde o meu primeiro MS-DOS :heart_eyes:**  
 
-<img src="Xenon.png">
+<img src="Xenon (1).png">
 
 <a href="https://www.linkedin.com/in/renata-francis-borges-b6b056158"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/renata-francis-borges-b6b056158)<br>
 <a href="https://www.instagram.com/renataf_borges/"><img src="instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/renataf_borges/)<br>
