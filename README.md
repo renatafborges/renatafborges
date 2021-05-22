@@ -1,5 +1,7 @@
 ## Olá! Sou a Renata Borges 👋
 
+<img src="https://github.com/renatafborges/renatafborges/Xenon.png">
+
 **Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Mobile com Kotlin, apaixonada pelo universo da tecnologia.**  
 
 <a href="https://www.linkedin.com/in/renata-francis-borges-b6b056158"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)   
