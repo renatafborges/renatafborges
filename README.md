@@ -1,6 +1,6 @@
 ## Olá! Sou a Renata Borges 👋
 
-**Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Mobile com Kotlin, apaixonada pelo universo da tecnologia.**  
+**Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Mobile com Kotlin, apaixonada pelo universo da tecnologia desde o meu primeiro MS-DOS.**  
 
 <img src="Xenon.png">
 
