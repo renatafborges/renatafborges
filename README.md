@@ -4,7 +4,10 @@
 
 <img src="Xenon.png">
 
-<a href="https://www.linkedin.com/in/renata-francis-borges-b6b056158"><img src="https://github.com/renatafborges/renatafborges/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/renata-francis-borges-b6b056158)   
+<a href="https://www.linkedin.com/in/renata-francis-borges-b6b056158"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/renata-francis-borges-b6b056158)<br>
+<a href="https://www.instagram.com/renataf_borges/"><img src="instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/renataf_borges/)<br>
+<a href="https://renata.francisborges@gmail.com"><img src="gmail.png" width="16"></img></a> [Gmail](renata.francisborges@gmail.com)<br>
+<a href="https://www.twitter.com/reehappy/"><img src="twitter.png" width="16"></img></a> [Twitter](https://www.twitter.com/reehappy/)<br>
 
 * :computer:  Hoje trabalho como Suporte de Integrações no DB1 Group.
 * 🙏  Participo da organização da Comunidade [DevGirlsMaringá](https://www.instagram.com/devgirlsmaringa/), adoro compartilhar conhecimento!
