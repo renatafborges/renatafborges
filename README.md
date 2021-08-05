@@ -1,6 +1,8 @@
 ## Olá! Sou a Renata Borges 👋
+## Hello World! I'm Borges, Renata 👋
 
 **Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Mobile com Kotlin, apaixonada pelo universo da tecnologia desde o meu primeiro MS-DOS :heart_eyes:**  
+**Studying System Analysis and Development, diving into Mobile Development with Kotlin, in love with the world of technology since my first MS-DOS :heart_eyes:**  
 
 <img src="Xenon (1).png">
 
@@ -16,6 +18,14 @@
 * :coffee: Eu amo café!
 * :airplane: Adoro viajar.
 * :cat::dog:Apaixonada por animais.
+
+* :computer: Work as API Integration Support at DB1 Group, product: Anymarket.
+* 🙏 Member of the Community [DevGirlsMaringá](https://www.instagram.com/devgirlsmaringa/), love sharing knowledge!
+* 😀 Student of Systems Analysis and Development.
+* :rocket: Venturing into C, Java and Kotlin.
+* :coffee: I love coffee!
+* :airplane: I love to travel.
+* :cat::dog:Passionate about animals.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=renatafborges&theme=radical&count_private=true&show_icons=true)
 
