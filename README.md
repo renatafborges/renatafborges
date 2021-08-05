@@ -20,6 +20,8 @@
 * :airplane: Adoro viajar.
 * :cat::dog:Apaixonada por animais.
 
+
+
 * :computer: Work as API Integration Support at DB1 Group, product: Anymarket.
 * 🙏 Member of the Community [DevGirlsMaringá](https://www.instagram.com/devgirlsmaringa/), love sharing knowledge!
 * 😀 Student of Systems Analysis and Development.
