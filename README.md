@@ -2,6 +2,7 @@
 ## Hello World! I'm Borges, Renata 👋
 
 **Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Mobile com Kotlin, apaixonada pelo universo da tecnologia desde o meu primeiro MS-DOS :heart_eyes:**  
+
 **Studying System Analysis and Development, diving into Mobile Development with Kotlin, in love with the world of technology since my first MS-DOS :heart_eyes:**  
 
 <img src="Xenon (1).png">
