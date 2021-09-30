@@ -7,7 +7,7 @@
 
 <img src="Xenon (1).png">
 
-<a href="https://www.linkedin.com/in/renata-francis-borges-b6b056158"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/renata-francis-borges-b6b056158)<br>
+<a href="https://https://www.linkedin.com/in/renataborgestech/"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/renataborgestech/)<br>
 <a href="https://www.instagram.com/renataf_borges/"><img src="instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/renataf_borges/)<br>
 <a href="https://www.twitter.com/reehappy/"><img src="twitter.png" width="16"></img></a> [Twitter](https://www.twitter.com/reehappy/)<br>
 [![Gmail Badge](https://img.shields.io/badge/-renata.francisborges@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renata.francisborges@gmail.com)](mailto:renata.francisborges@gmail.com)
