@@ -1,9 +1,9 @@
 ## Olá! Sou a Renata Borges 👋
 ## Hello World! I'm Borges, Renata 👋
 
-**Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Backend com Kotlin, apaixonada pelo universo da tecnologia desde o meu primeiro MS-DOS :heart_eyes:**  
+**Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Backend com Golang, apaixonada pelo universo da tecnologia desde o meu primeiro MS-DOS :heart_eyes:**  
 
-**Studying System Analysis and Development, diving into Backend Development with Kotlin, in love with the world of technology since my first MS-DOS :heart_eyes:**  
+**Studying System Analysis and Development, diving into Backend Development with Golang, in love with the world of technology since my first MS-DOS :heart_eyes:**  
 
 <img src="Xenon (1).png">
 
@@ -15,7 +15,7 @@
 * :computer:  Hoje trabalho como Desenvolvedora Backend na Db1 Global Software.
 * 🙏  Participo da organização da Comunidade [DevGirlsMaringá](https://www.instagram.com/devgirlsmaringa/), adoro compartilhar conhecimento!
 * 😀  Sou estudante de Análise e Desenvolvimento de Sistemas. 
-* :rocket: Me aventurando em Kotlin e Java.
+* :rocket: Me aventurando em Golang.
 * :coffee: Eu amo café!
 * :airplane: Adoro viajar.
 * :cat::dog:Apaixonada por animais.
@@ -23,7 +23,7 @@
 * :computer: Work as Back-end Developer at DB1 Global Software.
 * 🙏 Member of the Community [DevGirlsMaringá](https://www.instagram.com/devgirlsmaringa/), love sharing knowledge!
 * 😀 Student of Systems Analysis and Development.
-* :rocket: Venturing into Kotlin and Java.
+* :rocket: Venturing into Golang.
 * :coffee: I love coffee!
 * :airplane: I love to travel.
 * :cat::dog:Passionate about animals.
