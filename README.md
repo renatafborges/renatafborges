@@ -1,10 +1,9 @@
 ## Olá! Sou a Renata Borges 👋
 ## Hello World! I'm Borges, Renata 👋
 
-**Estudante de Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Backend com Golang, apaixonada pelo universo da tecnologia desde o meu primeiro MS-DOS :heart_eyes:**  
+*Formada em Análise e Desenvolvimento de  Sistemas, mergulhando de cabeça no Desenvolvimento Backend com Golang, apaixonada pelo universo da tecnologia desde o meu primeiro MS-DOS :heart_eyes:**  
 
-**Studying System Analysis and Development, diving into Backend Development with Golang, in love with the world of technology since my first MS-DOS :heart_eyes:**  
-
+**Graduated in System Analysis and Development, diving into Backend Development with Golang, in love with the world of technology since my first MS-DOS :heart_eyes:**  
 <img src="Xenon (1).png">
 
 <a href="https://https://www.linkedin.com/in/renataborgestech/"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/renataborgestech/)<br>
