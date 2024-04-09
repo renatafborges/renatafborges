@@ -26,5 +26,3 @@
 * :airplane: I love to travel.
 * :cat::dog:Passionate about animals.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=renatafborges&theme=radical&count_private=true&show_icons=true)
-
